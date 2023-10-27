@@ -34,17 +34,17 @@ jp:
        url: '#about'
        weight: 10
     - name: ニュース
-      url: post
+      url: '#post'
       weight: 20
     - name: メンバー
-      url: people
+      url: '#people'
       weight: 30
     - name: 研究内容
-      url: event
+      url: '#event'
       weight: 40
     - name: 研究業績
-      url: publication
+      url: '#publication'
       weight: 50
     - name: アクセス
-      url: contact
+      url: '#contact'
       weight: 60
