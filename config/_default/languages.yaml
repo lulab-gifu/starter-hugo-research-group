@@ -7,7 +7,7 @@
 ja:
  languageCode: ja
  contentDir: content/jp
- languageName: "日本語"
+ #languageName: "日本語"
  #disabled: false
  title: 岐阜大学 工学部 情報コース 盧研究室
  params:
