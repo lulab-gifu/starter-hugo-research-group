@@ -5,11 +5,11 @@
 
 # Uncomment the lines below to configure your website in a second language.
 jp:
- languageCode: ja-JP
+ languageCode: ja
  contentDir: content/jp
  disabled: false
  #languageDirection: ltr
- languageName: 日本語
+ #languageName: 日本語
  title: 岐阜大学 工学部情報コース 盧研究室
  params:
    description: 岐阜大学 工学部情報コース 盧研究室のホームページです．
