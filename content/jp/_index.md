@@ -8,8 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        あああああ
-        Research Group
+        盧研究室
       image:
         filename: welcome.jpg
       text: |
