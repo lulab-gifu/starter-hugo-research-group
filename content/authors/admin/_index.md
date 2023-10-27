@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xiao-Nan Lu 盧 暁南 
+title: 盧 暁南 (Xiao-Nan Lu) 
 
 # Full Name (for SEO)
 first_name: Xiao-Nan
@@ -10,15 +10,15 @@ last_name: Lu
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: 准教授 (Associate Professor)
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Gifu University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include discrete mathematics (combinatorics and combinatorial algorithms), coding theory, cryptography, and related interdisciplinary studies emphasis on statistics and theoretical computer science.
 
 interests:
   - Artificial Intelligence
@@ -72,6 +72,4 @@ user_groups:
   - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Xiao-Nan Lu is an Associate Professor at Department of Electrical, Electronics and Computer Engineering, Gifu University. His research interests include discrete mathematics (combinatorics and combinatorial algorithms), coding theory, cryptography, and related interdisciplinary studies emphasis on statistics and theoretical computer science.
