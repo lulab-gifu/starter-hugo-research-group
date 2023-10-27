@@ -14,7 +14,7 @@ main:
     url: people
     weight: 30
   - name: 研究内容
-    url: event
+    url: research
     weight: 40
   - name: 研究業績
     url: publication
