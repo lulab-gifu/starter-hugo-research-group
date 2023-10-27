@@ -33,7 +33,7 @@ jp:
      - name: トップページ
        url: '#about'
        weight: 1
+   news: 
     - name: ニュース
       url: '#post'
       weight: 2
-      
