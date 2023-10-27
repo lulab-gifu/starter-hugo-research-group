@@ -6,7 +6,7 @@
 # Uncomment the lines below to configure your website in a second language.
 ja:
  languageCode: ja
- contentDir: content/jp
+ contentDir: content/ja
  #languageName: "日本語"
  #disabled: false
  title: 岐阜大学 工学部 情報コース 盧研究室
