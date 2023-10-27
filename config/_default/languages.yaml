@@ -15,10 +15,10 @@ jp:
      - name: トップページ
        url: '#about'
        weight: 10
-   news: 
     - name: ニュース
       url: '#post'
       weight: 20
+  weight: 1
 
 
 # Default language
