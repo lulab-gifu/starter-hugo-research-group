@@ -32,19 +32,4 @@ jp:
    main:
      - name: トップページ
        url: '#about'
-       weight: 10
-    - name: ニュース
-      url: '#post'
-      weight: 20
-    - name: メンバー
-      url: '#people'
-      weight: 30
-    - name: 研究内容
-      url: '#event'
-      weight: 40
-    - name: 研究業績
-      url: '#publication'
-      weight: 50
-    - name: アクセス
-      url: '#contact'
-      weight: 60
+       weight: 1
