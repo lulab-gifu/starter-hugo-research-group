@@ -23,7 +23,7 @@ zh:
 
 # Uncomment the lines below to configure your website in a second language.
 jp:
- languageCode: jp
+ languageCode: ja-JP
  contentDir: content/jp
  title: 岐阜大学 工学部情報コース 盧研究室
  params:
@@ -32,8 +32,8 @@ jp:
    main:
      - name: トップページ
        url: '#about'
-       weight: 1
+       weight: 10
    news: 
     - name: ニュース
       url: '#post'
-      weight: 2
+      weight: 20
