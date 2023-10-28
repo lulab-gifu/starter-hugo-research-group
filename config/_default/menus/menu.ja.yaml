@@ -7,7 +7,7 @@ main:
   - name: ホーム
     url: /
     weight: 10
-  - name: ニュース
+  - name: 新着情報
     url: post
     weight: 20
   - name: メンバー
@@ -16,9 +16,9 @@ main:
   - name: 研究内容
     url: research
     weight: 40
-  - name: 研究業績
-    url: publication
-    weight: 50
+  # - name: 研究業績
+  #   url: publication
+  #   weight: 50
   - name: アクセス
     url: contact
     weight: 60

@@ -10,11 +10,12 @@ sections:
       title: |
         盧研究室
       image:
-        filename: welcome.jpg
+        filename: welcome.png
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        本研究室では，情報通信・情報セキュリティの基礎理論となる**符号理論**と**暗号理論**，および情報処理に現れる**離散数学**と**組合せアルゴリズム**に関する研究に取り組んでいます．近年，数理論理学に基づく**制約プログラミング**の手法を離散数学と情報工学への応用に関する研究にも力を入れています．
+
   
   - block: collection
     content:

@@ -8,14 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Lu's Research Group
       image:
-        filename: welcome.jpg
+        filename: welcome2.png
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        Our research group focuses on **discrete mathematics** (**combinatorics**) and **combinatorial algorithms**, as well as theoretical aspects on **coding theory** and **cryptography**, which are fundamental theories for information communication and security. Recently, we are actively applying **constraint programming** techniques to combinatorial and information-theoretical problems.
   
   - block: collection
     content:

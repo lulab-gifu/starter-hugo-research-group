@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 盧 暁南 (Xiao-Nan Lu) 
+title: Xiao-Nan Lu 
 
 # Full Name (for SEO)
 first_name: Xiao-Nan
@@ -10,32 +10,35 @@ last_name: Lu
 superuser: true
 
 # Role/position
-role: 准教授 (Associate Professor)
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
   - name: Gifu University
-    url: ''
+    url: 'https://www.gifu-u.ac.jp/en/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include discrete mathematics (combinatorics and combinatorial algorithms), coding theory, cryptography, and related interdisciplinary studies emphasis on statistics and theoretical computer science.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Discrete Mathematics (Combinatorics and Combinatorial Algorithms)
+  - Coding Theory
+  - Cryptography
+  - Statistical Design of Experiments
+  - Applications of Boolean Satisfiability (SAT) and Constraint Satisfaction in Combinatorics
+
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Doctoral Course in Information Science
+      institution: Nagoya University, Japan
+      year: (April 2014 - March 2017)
+    - course: Master's Course in Information Science
+      institution: Nagoya University, Japan
+      year: (April 2012 - March 2014)
+    - course: Special Class for the Gifted Young & Undergraduate Program in Mathematics
+      institution: Xi'an Jiaotong University, China
+      year: (September 2002 - July 2009)
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -69,7 +72,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Faculty
 ---
 
-Xiao-Nan Lu is an Associate Professor at Department of Electrical, Electronics and Computer Engineering, Gifu University. His research interests include discrete mathematics (combinatorics and combinatorial algorithms), coding theory, cryptography, and related interdisciplinary studies emphasis on statistics and theoretical computer science.
+Xiao-Nan Lu (盧 暁南) is an Associate Professor at Department of Electrical, Electronics and Computer Engineering, Gifu University. 
