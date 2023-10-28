@@ -4,8 +4,8 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: トップページ
-    url: tour
+  - name: ホーム
+    url: /
     weight: 10
   - name: ニュース
     url: post
