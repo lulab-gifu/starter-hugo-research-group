@@ -1,5 +1,5 @@
 ---
-title: People
+title: メンバー
 date: 2022-10-24
 
 type: landing
@@ -12,8 +12,8 @@ sections:
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
           - 教員
-          - Grad Students
-          - Administration
+          - 大学院生
+          - 学部生
           - Visitors
           - Alumni
       sort_by: Params.last_name
